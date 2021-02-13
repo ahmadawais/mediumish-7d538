@@ -1,6 +1,6 @@
 ---
 title: Uses
-subtitle: lorem-ipsum
+subtitle: This is my uses page.
 excerpt: lorem-ipsum
 img_alt: lorem-ipsum
 layout: page
