@@ -1,8 +1,6 @@
 ---
 title: MySQL's names history
-excerpt: >-
-  Did you know, that Monty named MySQL and MariaDB after his daughters? And
-  MaxDB after his son? Mind blowing.
+excerpt: "Did you know, that Monty named MySQL and MariaDB after his daughters? And MaxDB after his son? Mind blowing.\_\U0001F62E"
 date: '2019-04-09'
 thumb_img_path: images/code (1).png
 thumb_img_alt: MySQL names.
