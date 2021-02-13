@@ -5,9 +5,5 @@ excerpt: lorem-ipsum
 img_alt: lorem-ipsum
 layout: page
 ---
-## Lorem ipsum
+This is the page where I list things I use.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
