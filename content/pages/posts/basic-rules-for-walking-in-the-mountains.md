@@ -1,9 +1,8 @@
 ---
 title: MySQL's names history
 excerpt: >-
-  Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress
-  requires pushing vegetation aside.
+  Did you know, that Monty named MySQL and MariaDB after his daughters? And
+  MaxDB after his son? Mind blowing.
 date: '2019-04-09'
 thumb_img_path: images/code (1).png
 thumb_img_alt: MySQL names.
