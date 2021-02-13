@@ -1,7 +1,7 @@
 ---
 title: Home
 has_intro: true
-intro_content: "What?! Something like medium but yours. All yours. This is **SuperCaliFragilisticExpialidocious**! \U0001F389\n\n"
+intro_content: "What is this?! Something like medium but yours. All yours. This is **SuperCaliFragilisticExpialidocious**! \U0001F389\n\n"
 intro_actions:
   - label: Learn More
     url: /about
