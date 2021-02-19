@@ -1,5 +1,5 @@
 ---
-title: The Advantages and Disadvantages of Working from Home
+title: Speaking on 50 events in a year
 excerpt: >-
   Work at home parent is an entrepreneur who works from home and integrates
   parenting into his or her business activities. They are sometimes referred to
