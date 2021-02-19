@@ -11,7 +11,7 @@ intro_actions:
     style: secondary
   - label: lorem-ipsum
     url: lorem-ipsum
-    style: link
+    style: primary
     icon_class: lorem-ipsum
     new_window: false
     no_follow: false
