@@ -6,7 +6,7 @@ intro_actions:
   - label: Learn More
     url: /about
     style: primary
-  - label: Contact
+  - label: Contact US
     url: /contact
     style: secondary
   - label: lorem-ipsum
