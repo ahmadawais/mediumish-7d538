@@ -10,7 +10,7 @@ intro_actions:
     url: /contact
     style: secondary
   - label: Hello
-    url: lorem-ipsum
+    url: https://AhmadAwais.com/
     style: primary
     icon_class: lorem-ipsum
     new_window: false
