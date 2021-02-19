@@ -9,7 +9,7 @@ intro_actions:
   - label: Contact US
     url: /contact
     style: secondary
-  - label: lorem-ipsum
+  - label: Hello
     url: lorem-ipsum
     style: primary
     icon_class: lorem-ipsum
