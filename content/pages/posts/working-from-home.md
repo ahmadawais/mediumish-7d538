@@ -1,9 +1,6 @@
 ---
 title: Speaking on 50 events in a year
-excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities. They are sometimes referred to
-  as a WAHM (work at home mom) or a WAHD (work at home dad).
+excerpt: "Howdy, I’m\_Ahmad Awais. Nice to meet you.I love public speaking – so much so that I’ve spent most of the last five years on the road (with an average of 33 conferences/meetups/seminars a year). I am able to talk for hours and hours. I once gave a talk and conducted a workshop for six straight hours. No chairs were thrown. ;)"
 date: '2019-03-30'
 thumb_img_path: images/5-AHMAD-AWAIS-Speaking-6.jpg
 thumb_img_alt: A white modern house
