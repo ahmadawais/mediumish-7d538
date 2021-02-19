@@ -5,7 +5,7 @@ excerpt: >-
   parenting into his or her business activities. They are sometimes referred to
   as a WAHM (work at home mom) or a WAHD (work at home dad).
 date: '2019-03-30'
-thumb_img_path: images/9.jpg
+thumb_img_path: images/10.jpg
 thumb_img_alt: A white modern house
 content_img_path: images/9.jpg
 content_img_alt: A white modern house
